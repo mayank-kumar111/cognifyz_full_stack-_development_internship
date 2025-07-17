@@ -1,0 +1,19 @@
+{
+  "name": "task2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "main": "app.js",
+  "author": "Mayank Kumar",
+  "license": "ISC",
+  "description": "This is Tasks provided in the internship of Full stack developer By Cognifyz Technologies"
+}

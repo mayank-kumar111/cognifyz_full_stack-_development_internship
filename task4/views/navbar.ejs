@@ -1,0 +1,28 @@
+<style>
+    .nav-container {
+        background-color: #282828;
+        box-sizing: border-box;
+        position: absolute;
+        top: 0;
+        width: 100%;
+    }
+</style>
+
+<nav class="nav-container p-1">
+    <div class="container">
+        <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+
+            <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                <li><a href="/" class="nav-link px-2 text-white">Home</a></li>
+                <li><a href="/create" class="nav-link px-2 text-white">Add new Content</a></li>
+            </ul>
+
+            <div class="text-end">
+                <button class="btn btn-outline-light me-2" type="button" onclick="window.location.href='/login'"
+                    onKeyDown="if(event.key==='Enter'){window.location.href='/login'}">Login</button>
+                <button class="btn btn-warning" type="button" onclick="window.location.href='/sign-up'"
+                    onKeyDown="if(event.key==='Enter'){window.location.href='/sign-up'}">Sign up</button>
+            </div>
+        </div>
+    </div>
+</nav>
