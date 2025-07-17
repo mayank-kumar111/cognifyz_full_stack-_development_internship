@@ -2,7 +2,7 @@
 
 Welcome to my project repository for the **Full Stack Development Internship** at [Cognifyz Technologies](https://www.cognifyz.com). This repo documents my learning journey across multiple levels of front-end, back-end, and advanced server-side development. ✨
 
-![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Tasks Completed](https://img.shields.io/badge/tasks-8/8-success)
+![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Tasks Completed](https://img.shields.io/badge/tasks-5/8-success)
 
 ---
 
